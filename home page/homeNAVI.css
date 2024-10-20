@@ -1,0 +1,32 @@
+.navigation-menu {
+    position: absolute; /* or fixed if you want it to stay at the top while scrolling */
+    top: 10px; /* Adjust to position it slightly from the top */
+    right: 5px; /* Position from the right edge */
+    z-index: 1000; /* Ensure it is above other content */
+}
+
+.navigation-menu .container {
+    display: flex; /* Align items horizontally */
+    justify-content: flex-end; /* Align items to the end (right) */
+    gap: 10px; /* Space between buttons */
+    margin: 0; /* Remove margin to prevent shifting */
+    margin-top: 20px;
+
+}
+
+.navigation-menu .button {
+    background-color: transparent; /* Button background color */
+    color: white; /* Button text color */
+    border: none; /* Remove borders */
+    padding: 10px 15px; /* Space inside buttons */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Allow width and height */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.navigation-menu .button:hover {
+    background-color: #638495; /* Darker green on hover */
+}

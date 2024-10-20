@@ -1,0 +1,390 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v31_3516 {
+  width: 100%;
+  height: 806px;
+  background: url("v31_3516.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v17_800 {
+  width: 444px;
+  height: 49px;
+  background: rgba(255, 255, 254, 1);
+  opacity: 1;
+  position: absolute;
+  top: 459px;
+  left: 198px;
+  border-radius: 73px; /* Combine all border radius properties */
+  box-shadow: 0px 0px 1px rgba(0.09, 0.10, 0.12, 0.07);
+  overflow: hidden;
+  border: none;
+  padding: 10px; /* Add padding for better text placement */
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  color: #000; /* Text color */
+}
+
+.v17_800::placeholder {
+  color: #999; /* Placeholder text color */
+}
+
+.v17_801 {
+  width: 72px;
+  color: rgba(127,125,131,1);
+  position: absolute;
+  top: 12px;
+  left: 14px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_802 {
+  width: 444px;
+  height: 49px;
+  background: rgba(255, 255, 254, 1);
+  opacity: 1;
+  position: absolute;
+  top: 534px;
+  left: 198px;
+  border-radius: 73px; /* Combine all border radius properties */
+  box-shadow: 0px 0px 1px rgba(0.09, 0.10, 0.12, 0.07);
+  overflow: hidden;
+  border: none;
+  padding: 10px; /* Add padding for better text placement */
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  color: #000; /* Text color */
+}
+
+.v17_802::placeholder {
+  color: #999; /* Placeholder text color */
+}
+
+.v17_803 {
+  width: 134px;
+  color: rgba(127,125,131,1);
+  position: absolute;
+  top: 11px;
+  left: 13px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_804 {
+  width: 409px;
+  height: 51px;
+  background: rgba(244, 67, 54, 1);
+  opacity: 1;
+  position: absolute;
+  top: 609px;
+  left: 211px;
+  border-radius: 81px; /* Combine all border radius properties */
+  box-shadow: 0px 0px 1px rgba(0.09, 0.10, 0.12, 0.07);
+  overflow: hidden;
+  border: none; /* Remove border */
+  color: white; /* Set text color to white */
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  cursor: pointer; /* Change cursor to pointer */
+}
+
+.v17_805 {
+  width: 67px;
+  color: rgba(255,255,254,1);
+  position: absolute;
+  top: 12px;
+  left: 166px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 17px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_806 {
+  width: 444px;
+  height: 48px;
+  background: rgba(255, 255, 254, 1);
+  opacity: 1;
+  position: absolute;
+  top: 311px;
+  left: 198px;
+  border-radius: 73px;
+  box-shadow: 0px 0px 1px rgba(0.09, 0.10, 0.12, 0.07);
+  overflow: hidden;
+  border: none;
+  padding: 10px; /* Add padding for better text placement */
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  color: #000; /* Change the text color if needed */
+}
+
+.v17_806::placeholder {
+  color: #999; /* Placeholder text color */
+}
+
+
+.v17_807 {
+  width: 77px;
+  color: rgba(127,125,131,1);
+  position: absolute;
+  top: 11px;
+  left: 14px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_808 {
+  width: 444px;
+  height: 48px;
+  background: rgba(255, 255, 254, 1);
+  opacity: 1;
+  position: absolute;
+  top: 385px;
+  left: 198px;
+  border-radius: 73px; /* Combine all border radius properties */
+  box-shadow: 0px 0px 1px rgba(0.09, 0.10, 0.12, 0.07);
+  overflow: hidden;
+  border: none;
+  padding: 10px; /* Add padding for better text placement */
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  color: #000; /* Text color */
+}
+
+.v17_808::placeholder {
+  color: #999; /* Placeholder text color */
+}
+
+.v17_809 {
+  width: 40px;
+  color: rgba(127,125,131,1);
+  position: absolute;
+  top: 11px;
+  left: 14px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_810 {
+  width: 234px;
+  height: 52px;
+  background: rgba(214,217,220,1);
+  opacity: 1;
+  position: absolute;
+  top: 689px;
+  left: 321px;
+  box-shadow: 0px 0px 1px rgba(0.09019608050584793, 0.10196078568696976, 0.12156862765550613, 0.07000000029802322);
+  overflow: hidden;
+}
+.v17_811 {
+  width: 232px;
+  color: rgba(149,118,120,1);
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_812 {
+  width: 147px;
+  color: rgba(244,67,54,1);
+  position: absolute;
+  top: 235px;
+  left: 337px;
+  font-family: Lexend;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3517 {
+  width: 545px;
+  color: rgba(99,157,190,1);
+  position: absolute;
+  top: 97px;
+  left: 48px;
+  font-family: Margarine;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3521 {
+  width: 908px;
+  height: 68px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  left: 501px;
+  border-top-left-radius: 95px;
+  border-top-right-radius: 95px;
+  border-bottom-left-radius: 95px;
+  border-bottom-right-radius: 95px;
+  overflow: hidden;
+}
+.v31_3522 {
+  width: 45px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 140px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3523 {
+  width: 49px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 237px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3524 {
+  width: 73px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 338px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3525 {
+  width: 71px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 469px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3526 {
+  width: 61px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 598px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3527 {
+  width: 84px;
+  height: 35px;
+  background: rgba(162,210,237,1);
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 690px;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  overflow: hidden;
+}
+.v31_3528 {
+  width: 42px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 7px;
+  left: 21px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_3529 {
+  width: 99px;
+  height: 35px;
+  background: rgba(162,210,237,1);
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 786px;
+  border-top-left-radius: 56px;
+  border-top-right-radius: 56px;
+  border-bottom-left-radius: 56px;
+  border-bottom-right-radius: 56px;
+  overflow: hidden;
+}
+.v31_3530 {
+  width: 63px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 9px;
+  left: 18px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+
+
+/* General styling for error messages */
+.error-message {
+  font-size: 12px;
+  margin-bottom: 5px;
+  display: none; /* Hide the error message initially */
+}
+
+/* Individual error message styles */
+.username-error {
+  color: red; /* Red color for username error */
+  margin-top: 50px;
+}
+
+.email-error {
+  color: orange; /* Orange color for email error */
+}
+
+.password-error {
+  color: blue; /* Blue color for password error */
+}
+
+.confirm-password-error {
+  color: green; /* Green color for confirm password error */
+}
+
+/* Adjust margins or paddings as needed */
+.button-container {
+  margin-bottom: 20px; /* Add space between each input and button */
+}
