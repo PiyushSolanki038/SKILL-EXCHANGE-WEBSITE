@@ -1,0 +1,36 @@
+.menu-bar {
+    border-radius: 25px;
+    display: inline-flex;
+    background-color: rgba(0, 0, 0, 0.4);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    padding: 10px;
+    position: absolute; /* Position it at the top right */
+    top: 20px; /* Distance from the top */
+    right: 20px; /* Distance from the right */
+}
+
+.menu-bar ul {
+    list-style: none; /* Remove bullet points from the list */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Display list items in a row */
+}
+
+.menu-bar li {
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 12px 16px;
+    margin: 0 8px;
+    position: relative;
+    cursor: pointer;
+    white-space: nowrap; /* Prevent text wrapping */
+    transition: color 0.2s, background-color 0.2s; /* Smooth transition for color and background change */
+}
+
+.menu-bar li:hover {
+    color: #f60000; /* Change text color on hover */
+    background-color: rgba(255, 255, 255, 0.2); /* Light background on hover */
+    border-radius: 25px; /* Maintain rounded corners */
+}

@@ -1,0 +1,475 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v31_3532 {
+  background-image: ("v31_3516.png");
+  width: 100%;
+  height: 806px;
+  background: rgba(185,188,207,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v17_729 {
+  width: 424px;
+  height: 802px;
+  background: url("../images/v17_729.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  border: 0px solid rgba(189,193,202,1);
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v17_736 {
+  width: 373px;
+  height: 51px;
+  background: rgba(244, 67, 54, 1);
+  opacity: 1;
+  position: absolute;
+  top: 481px;
+  left: 527px;
+  border-top-left-radius: 26px;
+  border-top-right-radius: 26px;
+  border-bottom-left-radius: 26px;
+  border-bottom-right-radius: 26px;
+  overflow: hidden;
+  cursor: pointer; /* Change cursor to pointer */
+  display: flex; /* Use flexbox for centering text */
+  justify-content: center; /* Center text horizontally */
+  align-items: center; /* Center text vertically */
+  color: white; /* Text color */
+  font-size: 16px; /* Font size */
+  font-weight: bold; /* Bold text */
+}
+
+.v17_737 {
+  width: 43px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 12px;
+  left: 165px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 17px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_734 {
+  width: 397px; /* Width of the input container */
+  position: absolute;
+  top: 408px; /* Position of the container */
+  left: 521px; /* Position of the container */
+}
+
+.v17_735 {
+  display: block; /* Makes the label a block element */
+  margin-bottom: 5px; /* Space between label and input */
+  font-size: 16px; /* Font size for the label */
+  color: #333; /* Color for the label text */
+ 
+}
+
+.v17_734 input {
+  width: 100%; /* Make input take full width */
+  height: 47px; /* Set height of the input */
+  background: rgba(255, 255, 255, 1); /* Background color */
+  border: 1px solid #ccc; /* Add a border to the input */
+  border-radius: 44px; /* Rounded corners */
+  padding: 0 15px; /* Add padding for text */
+  font-size: 16px; /* Font size */
+  font-family: 'Inter', sans-serif; /* Use your chosen font */
+  outline: none; /* Remove outline on focus */
+}
+
+.v17_732 {
+  width: 400px; /* Set the width of the input field */
+  height: 48px; /* Set the height of the input field */
+  background: rgba(255, 255, 254, 1); /* Set the background color */
+  opacity: 1; /* Set the opacity */
+  position: absolute; /* Position the field absolutely */
+  top: 350px; /* Adjust top position as needed */
+  left: 520px; /* Adjust left position as needed */
+  border-radius: 73px; /* Set rounded corners */
+  box-shadow: 0px 0px 1px rgba(0.09019608050584793, 0.10196078568696976, 0.12156862765550613, 0.07000000029802322); /* Add shadow for depth */
+  overflow: hidden; /* Hide any overflow */
+}
+
+/* Style the input element within the password field */
+.v17_732 input {
+  width: calc(100% - 20px); /* Set width to fill the parent div with some padding */
+  height: 100%; /* Make input fill the height of the parent */
+  border: none; /* Remove border for a cleaner look */
+  border-radius: 73px; /* Match the parent's border radius */
+  padding: 0 10px; /* Add padding for better spacing */
+  font-size: 16px; /* Set font size */
+  outline: none; /* Remove default outline on focus */
+}
+
+
+
+
+
+
+
+.v17_733 {
+  text-align: ;
+  display: block; /* Makes the label a block element */
+  margin-bottom: 5px; /* Space between label and input */
+  font-size: 16px; /* Font size for the label */
+  color: #333; /* Color for the label text */
+}
+
+.v17_732 input {
+  width: 100%; /* Make input take full width */
+  height: 47px; /* Set height of the input */
+  background: rgba(255, 255, 255, 1); /* Background color */
+  border: 1px solid #ccc; /* Add a border to the input */
+  border-radius: 33px; /* Rounded corners */
+  padding: 0 15px; /* Add padding for text */
+  font-size: 16px; /* Font size */
+  font-family: 'Inter', sans-serif; /* Use your chosen font */
+  outline: none; /* Remove outline on focus */
+}
+
+.v17_738 {
+  width: 100px;
+  color: rgba(244,67,54,1);
+  position: absolute;
+  top: 237px;
+  left: 664px;
+  font-family: Lexend;
+  font-weight: Bold;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v17_739 {
+  width: 238px;
+  color: rgba(163,111,110,1);
+  position: absolute;
+  top: 572px;
+  left: 593px;
+  font-family: Manrope;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3533 {
+  width: 315px;
+  height: 415px;
+  background: url("v32_3533.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 391px;
+  left: 0px;
+  overflow: hidden;
+}
+.v32_3576 {
+  width: 908px;
+  height: 68px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  left: 501px;
+  border-top-left-radius: 95px;
+  border-top-right-radius: 95px;
+  border-bottom-left-radius: 95px;
+  border-bottom-right-radius: 95px;
+  overflow: hidden;
+}
+.v32_3577 {
+  width: 45px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 140px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3578 {
+  width: 49px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 237px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3579 {
+  width: 73px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 338px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3580 {
+  width: 71px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 469px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3581 {
+  width: 61px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 598px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3582 {
+  width: 84px;
+  height: 35px;
+  background: rgba(162,210,237,1);
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 690px;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  overflow: hidden;
+}
+.v32_3583 {
+  width: 42px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 7px;
+  left: 21px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3584 {
+  width: 99px;
+  height: 35px;
+  background: rgba(162,210,237,1);
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 786px;
+  border-top-left-radius: 56px;
+  border-top-right-radius: 56px;
+  border-bottom-left-radius: 56px;
+  border-bottom-right-radius: 56px;
+  overflow: hidden;
+}
+.v32_3585 {
+  width: 63px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 9px;
+  left: 18px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v32_3587 {
+  width: 545px;
+  color: rgba(99,157,190,1);
+  position: absolute;
+  top: 84px;
+  left: 48px;
+  font-family: Margarine;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Ensures the body takes the full height of the viewport */
+  background: url(bg.jpg) no-repeat center center; /* Center the background image */
+  background-size: cover;
+}
+
+.wrapper {
+  width: 420px; /* Fixed width for the wrapper */
+  background: rgba(0, 0, 0, 0.5); /* Optional: Change to a semi-transparent background */
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(9px);
+  color: #fff;
+  border-radius: 12px;
+  padding: 30px 40px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Optional: Add some shadow for depth */
+
+  margin-top: px; /* Moves the wrapper down */
+  margin-left: 20px; /* Moves the wrapper to the right */
+  
+  
+}
+
+.wrapper h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.wrapper .input-box {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin: 30px 0;
+}
+
+.input-box input {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 40px;
+  font-size: 16px;
+  color: #fff;
+  padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder {
+  color: #fff;
+}
+
+.input-box i {
+  position: absolute;
+  right: 20px;
+  top: 30%;
+  transform: translate(-50%);
+  font-size: 20px;
+}
+
+.wrapper .remember-forgot {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14.5px;
+  margin: -15px 0 15px;
+}
+
+.remember-forgot label input {
+  accent-color: #fff;
+  margin-right: 3px;
+}
+
+.remember-forgot a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.remember-forgot a:hover {
+  text-decoration: underline;
+}
+
+.wrapper .btn {
+  width: 100%;
+  height: 45px;
+  background: #fff;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-size: 16px;
+  color: #333;
+  font-weight: 600;
+}
+
+.wrapper .register-link {
+  font-size: 14.5px;
+  text-align: center;
+  margin: 20px 0 15px;
+}
+
+.register-link p a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.register-link p a:hover {
+  text-decoration: underline;
+}
